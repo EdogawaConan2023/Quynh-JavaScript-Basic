@@ -107,7 +107,7 @@
 const age = 19;
 const isOldEnough = age >= 18;
 if (isOldEnough) {
-    console.log ('Duoc phep lai xe ☺️')
+    console.log ('Duoc phep lai xe 😆')
 } else  {
     console.log ('Khong duoc phep lai xe 😢')
 }
