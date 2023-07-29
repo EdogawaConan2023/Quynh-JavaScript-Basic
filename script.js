@@ -104,12 +104,16 @@
 // ');
 
 // if/else 😂
-const age = 19;
+
+const age = 14;
 const isOldEnough = age >= 18;
+
 if (isOldEnough) {
     console.log ('Duoc phep lai xe 😆')
 } else  {
-    console.log ('Khong duoc phep lai xe 😢')
+    const yearsLeft = 18 - age
+    console.log (`Khong duoc phep lai xe 😢 . Doi them ${yearsLeft} nua nhe 🥺`);
+
 }
 
 
