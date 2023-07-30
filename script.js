@@ -105,16 +105,94 @@
 
 // if/else 😂
 
-const age = 14;
-const isOldEnough = age >= 18;
+// const age = 14;
+// const isOldEnough = age >= 18;
 
-if (isOldEnough) {
-    console.log ('Duoc phep lai xe 😆')
-} else  {
-    const yearsLeft = 18 - age
-    console.log (`Khong duoc phep lai xe 😢 . Doi them ${yearsLeft} nua nhe 🥺`);
+// if (isOldEnough) {
+//     console.log ('Duoc phep lai xe 😆')
+// } else  {
+//     const yearsLeft = 18 - age
+//     console.log (`Khong duoc phep lai xe 😢 . Doi them ${yearsLeft} nua nhe 🥺`);
+// }
 
+// const birthYear = 1992;
+// let century;
+// if(birthYear <= 2000) {
+//     century = 20;
+// } else {
+//     century = 21;
+// }
+// console.log (century); 
+
+// const birthYear = 2003
+// if (birthYear <=2000) {
+//     console.log ('Ban dang o the ky 20 🌟');
+// } else {
+//     console.log ('Ban dang o the ky 21 🌟');
+// }
+
+// const massMark = 78;
+// const heightMark = 1.69;
+// const massJohn = 92;
+// const heightJohn = 1.95;
+
+// const BMIMark = massMark / (heightMark * heightMark);
+// const BMIJohn = massJohn / (heightJohn * heightJohn);
+// console.log(BMIMark);
+// console.log(BMIJohn);
+// if (BMIJohn > BMIMark) {
+//     console.log ("John's BMI is higher than Mark's!");
+// } else {
+//     console.log ("Mark's BMI is higher than John's!");
+// }
+
+// Chuyển đổi Kiểu và Ép kiểu (Type Conversion and Coercion)
+
+// const birthYear = "1992";
+// console.log (Number(birthYear) , birthYear); // chuyen doi string sang number
+// const number1 = 1992
+// console.log (String(number1)); // chuyen doi string sang number
+// console.log(Number('do van quynh')); // ko the thuc hien 
+// console.log(typeof birthYear);
+
+// 5 value of false ====  0 - '' - null - NaN - undefined
+
+// console.log(Boolean(0));
+// console.log(Boolean(''));
+// console.log(Boolean(null));
+// console.log(Boolean(NaN));
+// console.log(Boolean(undefined));
+
+// console.log(Boolean('Quynh'));
+// console.log(Boolean({}));
+
+// const money = 0
+// if (money) {
+//     console.log('Toi se mua 1 chiec xe hoi');
+// } else {
+//     console.log('Toi se kiem 1 jod de kiem tin');
+// }
+
+const dayLove = prompt('Ngay quan trong cua ban ?');
+const dayLoveNumber = Number (dayLove) // chuyen doi string qua number
+console.log(dayLoveNumber);
+console.log(typeof dayLoveNumber);
+if (dayLoveNumber === 4) {
+    console.log('Ngay cuoi cua ban');
 }
+else if (dayLoveNumber === 17) {
+    console.log('Ngay sinh cua con gai ban');
+}
+else {
+    console.log('ko phai 2 ngay quan trong nhat');
+}
+
+
+
+
+
+
+
 
 
 
