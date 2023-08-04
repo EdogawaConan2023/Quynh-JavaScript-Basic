@@ -1,6 +1,6 @@
 'use strict'; // che do nghiem ngat - an toan
 
-// Values and Variables
+// Values and Variables🌟 🌟 🌟 🌟 🌟
 
 
 // let country = 'VietNam';
@@ -10,7 +10,7 @@
 // console.log(continent);
 // console.log(population);
 
-// Data Types
+// Data Types 🌟 🌟 🌟 🌟 🌟
 
 // let a = true
 // console.log (a);
@@ -24,7 +24,7 @@
 // console.log (b);
 // console.log (typeof b)
 
-// let, const and var
+// let, const and var 🌟 🌟 🌟 🌟 🌟
 
 // let age = 30
 // age = 31
@@ -39,7 +39,7 @@
 // console.log (class) ;
 
 
-// Basic Operators
+// Basic Operators 🌟 🌟 🌟 🌟 🌟
 // // Toan tu so
 // const now = 2023
 // const ageQuynh = now - 1992;
@@ -51,7 +51,7 @@
 // const lastName = 'Quynh'
 // console.log (firstName + ' ' + lastName);
 
-// // Toan tu gan
+// // Toan tu gan 🌟 🌟 🌟 🌟 🌟
 
 // let x = 10
 // x += 10  // x = x + 10
@@ -62,7 +62,7 @@
 // --x
 // console.log (x);
 
-// Toan tu so sanh
+// Toan tu so sanh 🌟 🌟 🌟 🌟 🌟
 
 // const now = 2023
 // const ageQuynh = now - 1992;
@@ -90,7 +90,7 @@
 // console.log (BMIMark > BMIJohhn);
 // console.log ( BMIJohhn ,BMIMark, BMIMark > BMIJohhn);
 
-// String
+// String 🌟 🌟 🌟 🌟 🌟
 
 // const firstName = 'Quynh';
 // const job = 'developer';
@@ -106,7 +106,7 @@
 // ok \n\
 // ');
 
-// if/else 😂
+// if/else 🌟 🌟 🌟 🌟 🌟
 
 // const age = 14;
 // const isOldEnough = age >= 18;
@@ -149,7 +149,7 @@
 //     console.log ("Mark's BMI is higher than John's!");
 // }
 
-// Chuyển đổi Kiểu và Ép kiểu (Type Conversion and Coercion)
+// Chuyển đổi Kiểu và Ép kiểu (Type Conversion and Coercion) 🌟 🌟 🌟 🌟 🌟
 
 // const birthYear = "1992";
 // console.log (Number(birthYear) , birthYear); // chuyen doi string sang number
@@ -158,7 +158,7 @@
 // console.log(Number('do van quynh')); // ko the thuc hien 
 // console.log(typeof birthYear);
 
-// 5 value of false ====  0 - '' - null - NaN - undefined
+// 5 value of false ====  0 - '' - null - NaN - undefined 🌟 🌟 🌟 🌟 🌟
 
 // console.log(Boolean(0));
 // console.log(Boolean(''));
@@ -209,7 +209,7 @@
 //     console.log("Both win the trophy");
 // }
 
-// Swich
+// Swich 🌟 🌟 🌟 🌟 🌟
 // //A
 // const day = 'monday'
 // switch (day) {
@@ -274,7 +274,7 @@
 //         break;
 // }
 
-// Toan Tu Bac ba 
+// Toan Tu Bac ba 🌟 🌟 🌟 🌟 🌟
 // Bai tap
 // "Steven cần một máy tính tiền tip rất đơn giản mỗi khi anh ấy đi ăn tại một nhà hàng. Ở quốc gia của Steven, thường thì người ta tip 15% nếu giá trị hóa đơn nằm trong khoảng từ 50 đến 300. Nếu giá trị khác, thì tip là 20%.
 
@@ -314,7 +314,7 @@
 // }
 
 
-// Function 
+// Function 🌟 🌟 🌟 🌟 🌟
 // khai bao function
 // function ten() {
 //     console.log( 'My name is Conan');
@@ -343,7 +343,7 @@
 // const truyenthamsocuthenamsinh = tinhtuoi (1992);
 // console.log(truyenthamsocuthenamsinh);
 
-// Function Declaration (Khai báo hàm):
+// Function Declaration (Khai báo hàm):🌟 🌟 🌟 🌟 🌟
 // function tenHam(thamSo1, thamSo2) {
 //     // Thực hiện các tác vụ ở đây
 //     return ketQua;
@@ -358,7 +358,7 @@
 // const age = calcAge(1992);
 // console.log(age);
 
-//Function Expression (Biểu thức hàm):
+//Function Expression (Biểu thức hàm):🌟 🌟 🌟 🌟 🌟
 // const tenHam = function(thamSo1, thamSo2) {
 //     // Thực hiện các tác vụ ở đây
 //     return ketQua;
@@ -370,7 +370,7 @@
 // const age2 = calcAge2(1992);
 // console.log(age2);
 
-// khai bao ham 
+// khai bao ham 🌟 🌟 🌟 🌟 🌟
 // function traicay ( duahau , thom) {
 //     const dichoi = `Toi muon uong nuoc ep bao gom ${duahau} trai dua hau va ${thom} trai thom`;
 //     return dichoi;
@@ -378,7 +378,7 @@
 // const soluongtraicay = traicay ( 1 , 3 );
 // console.log(soluongtraicay);
 
-//bieu thuc ham
+//bieu thuc ham 🌟 🌟 🌟 🌟 🌟
 // const traicay = function (duahau , thom) {
 //     const dichoi = `Toi muon uong nuoc ep bao gom ${duahau} trai dua hau va ${thom} trai thom`;
 //     return dichoi;
@@ -406,3 +406,136 @@
 // }
 // let soKiemTra = 7;
 // console.log(kiemTraChanLe(soKiemTra));
+
+// const binhPhuong = (x) => {
+//     return x * x;
+//   };
+// const ketQua = binhPhuong(5);
+//   console.log(ketQua);
+
+
+//Ham goi Ham 🌟 🌟 🌟 🌟 🌟
+
+// function cutthanhmieng(fruit) {
+//     return fruit * 4;
+// }
+// function traicay ( duahau , thom) {  
+//         const miengDuahau = cutthanhmieng(duahau);
+//         const miengThom = cutthanhmieng(thom);
+//         const dichoi = `Toi muon uong nuoc ep bao gom ${miengDuahau} mieng dua hau va ${miengThom} mieng thom`;
+//         return dichoi;
+//     }
+//     const soluongtraicay = traicay ( 1 , 3 );
+//     console.log(soluongtraicay);
+
+
+// function calcAge(birthYear , firstName) {
+//     const age1 = 2023 - birthYear;
+//     console.log(`${firstName} is ${age1} years old`);
+//     return age1 ;
+// }
+// const age1 = calcAge(1992,"Quynh");
+
+
+// const calcAge2 = function(birthYear , firstName) {
+//     const age2 = 2023 - birthYear;
+//     console.log(`${firstName} is ${age2} years old`);
+//     return age2 ;
+// }
+// const age2 = calcAge2(2021,"Nhi");
+
+/* CHALLENGE #1 🌟 🌟 🌟 🌟 🌟
+Back to the two gymnastics teams, the Dolphins and the Koalas! There is a new gymnastics discipline, which works differently.
+Each team competes 3 times, and then the average of the 3 scores is calculated (so one average score per team).
+A team only wins if it has at least double the average score of the other team. Otherwise, no team wins!
+Your tasks:
+Create an arrow function calcAverage to calculate the average of 3 scores. This function should have three parameters and return a single number (the average score).
+Create two new variables — scoreDolphins and scoreKoalas, and assign the value returned from the calcAverage function to them (you will need to call this function, and pass scores as arguments).
+Create a function checkWinner that takes the average score of each team as parameters (avgDolphins and avgKoalas), and then logs the winner to the console, together with the victory points, according to the rule above. Example: Koalas win (30 vs. 13) (use avgDolphins and avgKoalas instead of hard-coded values).
+Use the checkWinner function to determine the winner for both DATA 1 and DATA 2.
+Ignore draws this time. Instead, log No team wins... to the console if there is no winner.
+TEST DATA 1: Dolphins scored 44, 23, and 71. Koalas scored 65, 54, and 49.
+TEST DATA 2: Dolphins scored 85, 54, and 41. Koalas scored 23, 34, and 27.*/
+
+// const calcAverage = ( a , b , c) => ( a + b + c ) / 3 ;
+// console.log(calcAverage (1 , 2 , 3 )); 
+
+// const scoreDolphins = calcAverage(44 ,23,71);
+// const scoreKoalas = calcAverage(65,54,49)
+// console.log( scoreDolphins , scoreKoalas);
+
+// const checkWinner = function (avgDolphins , avgKoalas ) {
+//     if (avgDolphins >= avgKoalas * 2 ) {
+//         console.log (`Team Dolphins winner because ${avgDolphins} >= ${avgKoalas}`)}
+//     else if (avgKoalas >= avgDolphins * 2 ) {
+//         console.log (`Team Koalas winner because ${avgKoalas} >= ${avgDolphins}`)}
+//     else {console.log ('No team win')}
+//     }
+// checkWinner(scoreDolphins , scoreKoalas);
+// checkWinner(222 ,100);
+
+// Array 🌟 🌟 🌟 🌟 🌟 
+
+// const friends = ['Quynh','Nhi','Thuy'];
+// console.log(friends);
+
+// const years = new Array(1990 , 1991 , 1992 , 1992);
+// console.log(years);
+
+// console.log(friends[0] , years[2]);
+// console.log(friends.length);
+// console.log(friends[friends.length - 1]); // goi phan tu cuoi cung
+
+// friends[2] = 'Cach Cach'; // thay doi phan tu trong Mang
+// console.log(friends); 
+
+// const calcAge = function (birthYear) {
+//     return 2022 - birthYear;
+// }
+// const years = new Array(1991,1992,1993,1994,1995);
+// const age1 = calcAge(years[0]);
+// const age2 = calcAge(years[1]);
+// const age3 = calcAge(years[years.length - 1 ]);
+// console.log(age1,age2,age3);
+
+// const ages = [ calcAge(years[0]) , calcAge(years[1]) , calcAge(years[years.length - 1 ])]
+// console.log(ages);
+
+// array PUSH 🌟 
+const friends = ['Quynh','Nhi','Thuy','Sach'];
+
+friends.push ('Quyen')  // add element last
+console.log(friends);
+
+friends.unshift ('Peter');  // add element first
+console.log(friends);
+
+friends.pop(); // remove element last
+console.log(friends);
+
+friends.shift();
+console.log(friends);
+
+console.log(friends.indexOf('Quynh')); // xem vi tri element trong array
+console.log(friends.indexOf('Tuan')); // Khong co trong arrray 
+
+console.log(friends.includes('Tuan')); // Kiem tra element co trong array ko ?
+console.log(friends.includes('Nhi')); // Kiem tra element co trong array ko ?
+
+if (friends.includes('Nhi')) {
+    console.log('Nhi ok ');
+} else {
+    console.log('Noooo');
+}
+
+    
+
+
+
+
+
+
+
+
+
+
